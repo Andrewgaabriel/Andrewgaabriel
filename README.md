@@ -23,8 +23,8 @@
 
 ### :man_technologist: **About me**
 
-- 🎒 I'm currently majoring in *Computer Science* at ***UFFS***
-- 🌱 Learning ***Web Development*** and ***Mobile Development*** with ***Flutter***  
+- 🧑🏻‍🎓 Graduated in *Computer Science* from ***UFFS***
+- 🌱 *Mobile developer* specializing in **Flutter**
 - 💘 Lover of *technology* and *web design*
 
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,flutter,react,php,python,flask,postgres,c,java,figma,vscode,photoshop&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,git,javascript,react,python,postgres,c,java,figma&theme=dark" />
   </a>
 </p>
 
